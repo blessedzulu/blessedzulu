@@ -46,7 +46,6 @@ I'm a front-end web developer with an appreciation for great interfaces.
 - 🔎 I'm open to opportunities & collaborations
 - 📫 I'm reachable by [mail](mailto:hello@blessedzulu.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
 
----
 ## 🧰 Languages, Tools & Technologies
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
