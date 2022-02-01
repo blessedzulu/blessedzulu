@@ -14,33 +14,29 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <h1>
-      Hello, world!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Hello world! I'm Blessed. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-<div align="center" id="social-badges">
+
+<p>
   <a href="https://blessedzulu.com">
-    <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://linkedin.com/in/blessedzulu">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://blog.blessedzulu.com">
-    <img src="https://img.shields.io/badge/Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
   <a href="https://twitter.com/blessedzulu_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+  <a href="https://blog.blessedzulu.com">
+    <img src="https://img.shields.io/badge/Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+</p>
 
 --- 
 ## ❔ About Me
 
-I'm a front-end web developer with an appreciation for great interfaces.
+I'm a front-end web developer with an appreciation for great interfaces. 
 
 - 🎨 I [design](https://behance.net/blessedzulu) websites & interfaces 
 - ⌨️ I build websites
@@ -50,3 +46,13 @@ I'm a front-end web developer with an appreciation for great interfaces.
 - 🔎 I'm open to opportunities & collaborations
 - 📫 I'm reachable by [mail](mailto:hello@blessedzulu.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
 
+---
+## 🧰 Languages, Tools & Technologies
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+</p>
