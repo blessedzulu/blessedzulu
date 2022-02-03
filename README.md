@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 --- 
-## 
-
-
-About Me
+## About Me
 
 I'm a front-end web developer with an appreciation for great interfaces. 
 
