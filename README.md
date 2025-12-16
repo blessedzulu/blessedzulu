@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
---- 
 ## About Me
 
 I'm a full-stack developer who appreciates useful digital products. 
