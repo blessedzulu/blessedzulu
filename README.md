@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 I'm a full-stack developer who appreciates useful digital products. 
 
 - ⌨️ I design and build web applications and sites
-- 🌱 I'm currently learning Vue, React and Inertia
+- 🌱 I'm currently learning Machine Learning and Data Analysis with Python
 - 🔎 I'm open to opportunities & collaborations
 - 📫 I'm reachable by [email](mailto:blessedmattzulu@gmail.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
 
@@ -48,11 +48,14 @@ I'm a full-stack developer who appreciates useful digital products.
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire" alt="Livewire" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filamentphp/filamentphp-original.svg" title="FilamentPHP" alt="FilamentPHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/inertiajs/inertiajs-original.svg" title="InertiaJS" alt="InertiaJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 </p>
