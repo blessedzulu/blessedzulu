@@ -40,7 +40,7 @@ I'm a full-stack developer who appreciates useful digital products.
 - ⌨️ I design and build web applications and sites
 - 🌱 I'm currently learning Vue, React and Inertia
 - 🔎 I'm open to opportunities & collaborations
-- 📫 I'm reachable by [mail](mailto:blessedmattzulu@gmail.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
+- 📫 I'm reachable by [email](mailto:blessedmattzulu@gmail.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
 
 ## Languages, Tools & Technologies
 <p>
