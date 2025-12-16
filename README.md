@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🎨 I [design](https://behance.net/blessedzulu) websites & interfaces 
+
+  <a href="https://blog.blessedzulu.com">
+    <img src="https://img.shields.io/badge/Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
 -->
 
 
-# Hello, I'm Blessed. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
 
@@ -28,9 +32,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://twitter.com/blessedzulu_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://blog.blessedzulu.com">
-    <img src="https://img.shields.io/badge/Blog-2962ff?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </p>
 
