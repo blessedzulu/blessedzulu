@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🎨 I [design](https://behance.net/blessedzulu) websites & interfaces 
 -->
 
 
@@ -36,19 +37,21 @@ Here are some ideas to get you started:
 --- 
 ## About Me
 
-I'm a front-end web developer with an appreciation for great interfaces. 
+I'm a full-stack developer who appreciates useful digital products. 
 
-- 🎨 I [design](https://behance.net/blessedzulu) websites & interfaces 
-- ⌨️ I build websites
-- 🎲 I tinker with creative web technologies
-- 🌱 I'm currently learning React & Tailwind
-- ✒️ I [blog](https://blog.blessedzulu.com) about things I find worth sharing 
+- ⌨️ I design and build web applications and sites
+- 🌱 I'm currently learning Vue, React and Inertia
 - 🔎 I'm open to opportunities & collaborations
-- 📫 I'm reachable by [mail](mailto:hello@blessedzulu.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
+- 📫 I'm reachable by [mail](mailto:blessedmattzulu@gmail.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_). 
 
 ## Languages, Tools & Technologies
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire" alt="Livewire" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filamentphp/filamentphp-original.svg" title="FilamentPHP" alt="FilamentPHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
