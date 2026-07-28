@@ -6,7 +6,3 @@ I'm a software engineer. Shipping to production since 2021.
 🌱 Currently learning data science with Python<br/>
 🔎 Open to opportunities & collaborations<br/>
 📫 Reachable by [email](mailto:hello@blessedzulu.com), on [LinkedIn](https://linkedin.com/in/blessedzulu) and on [Twitter](https://twitter.com/blessedzulu_).
-
-## Tools & Technologies
-![PHP, Laravel, Livewire, Filament, Inertia.js, JavaScript, React, Vue.js, Alpine.js, Tailwind, Python, MySQL, Nginx, Linux, Git](https://github.com/blessedzulu/blessedzulu/raw/main/badges/stack.png)
-
